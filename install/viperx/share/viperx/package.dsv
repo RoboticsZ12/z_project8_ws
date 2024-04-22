@@ -1,0 +1,8 @@
+source;share/viperx/hook/cmake_prefix_path.ps1
+source;share/viperx/hook/cmake_prefix_path.dsv
+source;share/viperx/hook/cmake_prefix_path.sh
+source;share/viperx/local_setup.bash
+source;share/viperx/local_setup.dsv
+source;share/viperx/local_setup.ps1
+source;share/viperx/local_setup.sh
+source;share/viperx/local_setup.zsh

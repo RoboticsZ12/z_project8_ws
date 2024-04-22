@@ -1,0 +1,4 @@
+source;share/viperx/local_setup.bash
+source;share/viperx/local_setup.dsv
+source;share/viperx/local_setup.sh
+source;share/viperx/local_setup.zsh

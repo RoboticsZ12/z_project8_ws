@@ -1,0 +1,16 @@
+/home/me492-ros/z_project8_ws/install/viperx/lib/viperx/viperctrl
+/home/me492-ros/z_project8_ws/install/viperx/share/ament_index/resource_index/package_run_dependencies/viperx
+/home/me492-ros/z_project8_ws/install/viperx/share/ament_index/resource_index/parent_prefix_path/viperx
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/environment/ament_prefix_path.sh
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/environment/ament_prefix_path.dsv
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/environment/path.sh
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/environment/path.dsv
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/local_setup.bash
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/local_setup.sh
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/local_setup.zsh
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/local_setup.dsv
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/package.dsv
+/home/me492-ros/z_project8_ws/install/viperx/share/ament_index/resource_index/packages/viperx
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/cmake/viperxConfig.cmake
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/cmake/viperxConfig-version.cmake
+/home/me492-ros/z_project8_ws/install/viperx/share/viperx/package.xml

@@ -1,0 +1,72 @@
+[0.010s] Invoking command in '/home/me492-ros/z_project8_ws/build/viperx': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/me492-ros/interbotix_ws/install/interbotix_xs_modules:/home/me492-ros/interbotix_ws/install/interbotix_perception_modules:/home/me492-ros/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/me492-ros/z_project8_ws/src/viperxcontroller -DCMAKE_INSTALL_PREFIX=/home/me492-ros/z_project8_ws/install/viperx
+[0.086s] -- The C compiler identification is GNU 11.4.0
+[0.160s] -- The CXX compiler identification is GNU 11.4.0
+[0.174s] -- Detecting C compiler ABI info
+[0.270s] -- Detecting C compiler ABI info - done
+[0.286s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.286s] -- Detecting C compile features
+[0.287s] -- Detecting C compile features - done
+[0.294s] -- Detecting CXX compiler ABI info
+[0.402s] -- Detecting CXX compiler ABI info - done
+[0.412s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.412s] -- Detecting CXX compile features
+[0.413s] -- Detecting CXX compile features - done
+[0.418s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[0.598s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.812s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.817s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.824s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.834s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.849s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.898s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.900s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.001s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.021s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.056s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.065s] -- Looking for pthread.h
+[1.178s] -- Looking for pthread.h - found
+[1.178s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.285s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.286s] -- Found Threads: TRUE  
+[1.446s] -- Found moveit_ros_planning_interface: 2.5.5 (/opt/ros/humble/share/moveit_ros_planning_interface/cmake)
+[1.472s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+[1.954s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[1.965s] -- Found parameter_traits: 0.3.8 (/opt/ros/humble/share/parameter_traits/cmake)
+[1.979s] -- Found rclcpp_lifecycle: 16.0.8 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[2.010s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[2.115s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[2.211s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.211s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.540s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[2.849s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[2.991s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+[3.307s] -- Configuring done
+[3.321s] -- Generating done
+[3.322s] -- Build files have been written to: /home/me492-ros/z_project8_ws/build/viperx
+[3.331s] Invoked command in '/home/me492-ros/z_project8_ws/build/viperx' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/me492-ros/interbotix_ws/install/interbotix_xs_modules:/home/me492-ros/interbotix_ws/install/interbotix_perception_modules:/home/me492-ros/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/me492-ros/z_project8_ws/src/viperxcontroller -DCMAKE_INSTALL_PREFIX=/home/me492-ros/z_project8_ws/install/viperx
+[3.333s] Invoking command in '/home/me492-ros/z_project8_ws/build/viperx': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/me492-ros/interbotix_ws/install/interbotix_xs_modules:/home/me492-ros/interbotix_ws/install/interbotix_perception_modules:/home/me492-ros/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/me492-ros/z_project8_ws/build/viperx -- -j20 -l20
+[3.398s] [ 33%] [32mBuilding CXX object CMakeFiles/viperctrl.dir/src/main.cpp.o[0m
+[3.398s] [ 66%] [32mBuilding CXX object CMakeFiles/viperctrl.dir/src/viperx_controller.cpp.o[0m
+[7.572s] [100%] [32m[1mLinking CXX executable viperctrl[0m
+[7.786s] [100%] Built target viperctrl
+[7.804s] Invoked command in '/home/me492-ros/z_project8_ws/build/viperx' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/me492-ros/interbotix_ws/install/interbotix_xs_modules:/home/me492-ros/interbotix_ws/install/interbotix_perception_modules:/home/me492-ros/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/me492-ros/z_project8_ws/build/viperx -- -j20 -l20
+[7.867s] Invoking command in '/home/me492-ros/z_project8_ws/build/viperx': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/me492-ros/interbotix_ws/install/interbotix_xs_modules:/home/me492-ros/interbotix_ws/install/interbotix_perception_modules:/home/me492-ros/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/me492-ros/z_project8_ws/build/viperx
+[7.877s] -- Install configuration: ""
+[7.878s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/lib/viperx/viperctrl
+[7.878s] -- Set runtime path of "/home/me492-ros/z_project8_ws/install/viperx/lib/viperx/viperctrl" to ""
+[7.879s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/ament_index/resource_index/package_run_dependencies/viperx
+[7.879s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/ament_index/resource_index/parent_prefix_path/viperx
+[7.879s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/environment/ament_prefix_path.sh
+[7.879s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/environment/ament_prefix_path.dsv
+[7.880s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/environment/path.sh
+[7.880s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/environment/path.dsv
+[7.880s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/local_setup.bash
+[7.880s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/local_setup.sh
+[7.880s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/local_setup.zsh
+[7.881s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/local_setup.dsv
+[7.881s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/package.dsv
+[7.881s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/ament_index/resource_index/packages/viperx
+[7.881s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/cmake/viperxConfig.cmake
+[7.881s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/cmake/viperxConfig-version.cmake
+[7.881s] -- Installing: /home/me492-ros/z_project8_ws/install/viperx/share/viperx/package.xml
+[7.882s] Invoked command in '/home/me492-ros/z_project8_ws/build/viperx' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/me492-ros/interbotix_ws/install/interbotix_xs_modules:/home/me492-ros/interbotix_ws/install/interbotix_perception_modules:/home/me492-ros/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/me492-ros/z_project8_ws/build/viperx
